@@ -1,4 +1,4 @@
-package com.cetc.myapplication.bluetooth;
+package com.example.bluetooth;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -18,8 +18,6 @@ import android.bluetooth.le.BluetoothLeAdvertiser;
 import android.content.Context;
 import android.os.ParcelUuid;
 import android.util.Log;
-
-import com.cetc.myapplication.MainActivity2;
 
 import java.util.UUID;
 

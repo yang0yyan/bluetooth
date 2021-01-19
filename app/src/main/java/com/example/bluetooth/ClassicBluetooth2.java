@@ -1,4 +1,4 @@
-package com.cetc.myapplication.bluetooth;
+package com.example.bluetooth;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -7,9 +7,6 @@ import android.bluetooth.BluetoothServerSocket;
 import android.bluetooth.BluetoothSocket;
 import android.content.Context;
 import android.content.Intent;
-
-import com.cetc.myapplication.MainActivity;
-import com.cetc.myapplication.PermissionUtil;
 
 import java.io.IOException;
 import java.util.UUID;

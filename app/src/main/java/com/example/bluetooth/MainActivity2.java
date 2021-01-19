@@ -1,4 +1,4 @@
-package com.cetc.myapplication;
+package com.example.bluetooth;
 
 import android.bluetooth.BluetoothDevice;
 import android.content.Context;
@@ -14,9 +14,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.cetc.myapplication.bluetooth.BluetoothLE;
-import com.cetc.myapplication.bluetooth.BluetoothLE2;
 
 import java.util.ArrayList;
 import java.util.List;

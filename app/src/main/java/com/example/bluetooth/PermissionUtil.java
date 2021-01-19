@@ -1,4 +1,4 @@
-package com.cetc.myapplication;
+package com.example.bluetooth;
 
 import android.Manifest;
 import android.app.Activity;
